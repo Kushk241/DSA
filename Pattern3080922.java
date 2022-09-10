@@ -7,7 +7,7 @@ public class Pattern3080922 {
             for(int j=1;j<=n-2;j++){
                 System.out.print(i+" "+j+" ");
             }
-            System.out.println();
+            
         }   
    } 
 }

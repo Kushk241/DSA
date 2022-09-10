@@ -9,7 +9,7 @@ public class Pattern4080922 {
                     System.out.print(a+" ");
                     a+=5;
             }
-            System.out.println();
+            
         }   
     }
 }

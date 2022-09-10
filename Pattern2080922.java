@@ -14,7 +14,7 @@ public class Pattern2080922 {
                     System.out.print(i+" ");  
                 }
             }
-            System.out.println();
+            
         } 
     }
 }
