@@ -18,7 +18,7 @@ public class Pattern5080922 {
                     a+=n;
                     b+=n;
             }
-            
+            System.out.println();
         }   
     }
 }
